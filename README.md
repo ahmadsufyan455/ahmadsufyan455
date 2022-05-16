@@ -23,13 +23,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## I'm a Student, Mobile Developer!!
+## I'm Fyan, a Student & Mobile Developer!!
 
 - 🔭 Currently working on Android Project, Debugging, Maintaining, and Bug Fixing
 - 🌱 Currently learning Kotlin and Flutter for Mobile Development 😊
 - 👯 Looking to collaborate with other to code or to make content
 - ⛳️ 2022 Goals: Being Full-Time Mobile Developer and contribute to open source
-- ⚡ Fun fact: I love to reading book about self-development
+- ⚡ Fun fact: I love to reading book about self-development | stoicism philosophy
 
 ### :hammer_and_wrench: Languages and Tools :
 
