@@ -25,11 +25,11 @@
 
 ## I'm Fyan, a Student & Mobile Developer!!
 
-- 🔭 Currently working on Android Project, Debugging, Maintaining, and Bug Fixing
-- 🌱 Currently learning Kotlin and Flutter for Mobile Development 😊
+- 🔭 Currently working as Android Engineer, Debugging, Maintaining, and Bug Fixing
+- 🌱 Currently learning Kotlin and Flutter for Mobile Development 
 - 👯 Looking to collaborate with other to code or to make content
-- ⛳️ 2022 Goals: Being Full-Time Mobile Developer and contribute to open source
-- ⚡ Fun fact: I love to reading book about self-development | stoicism philosophy
+- ⛳️ 2023 Goals: Being Full-Time Mobile Engineer and contribute to open source
+- ⚡ Fun fact: I love to reading book about self-development
 
 ### :hammer_and_wrench: Languages and Tools :
 
