@@ -26,8 +26,7 @@
 ## I'm Fyan, a Mobile Developer!!
 
 - 🔭 Currently working as Mobile Developer
-- 🌱 Currently learning Kotlin and Flutter for Mobile Development 
-- 👯 Looking to collaborate with other to code or to make content
+- 🌱 Learnig Flutter for Mobile Development 
 - ⛳️ 2024 Goals: Making contribution to tech education
 - ⚡ Fun fact: I love to reading book about self-development
 
