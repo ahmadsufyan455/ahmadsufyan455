@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## I'm Fyan, a Mobile Developer!!
+## Hi I'm Fyan
 
 - 🔭 Currently working as Mobile Developer
 - 🌱 Learnig Flutter for Mobile Development 
