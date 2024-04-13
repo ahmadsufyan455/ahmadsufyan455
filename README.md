@@ -1,3 +1,8 @@
+<h1 align="center">
+  Hi there, I'm Fyan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <!-- Social media -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ahmadsufyan455/">
@@ -12,11 +17,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmadsufyan455&style=flat-square&color=blue" alt=""/>
 </div>
-
-<h1 align="center">
-  Hi there, I'm Fyan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 - 🔭 Currently working as Mobile Developer
 - 🌱 Learnig Flutter for Mobile Development 
