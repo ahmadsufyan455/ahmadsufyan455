@@ -18,9 +18,9 @@
   <img src="https://komarev.com/ghpvc/?username=ahmadsufyan455&style=flat-square&color=blue" alt=""/>
 </div><br><br>
 
-- 🔭 Currently working as Mobile Developer
-- 🌱 Learnig Flutter for Mobile Development 
-- ⛳️ 2024 Goals: Making contribution to tech education
+- 🔭 Currently working as Mobile Developer & Code Reviewer
+- 🌱 Learnig Flutter & Jetpack compose
+- ⛳️ 2025 Goals: Making contribution to tech education & Expert in Flutter
 - ⚡ Fun fact: I love to reading book about self-development
 
 ### :hammer_and_wrench: Languages and Tools :
