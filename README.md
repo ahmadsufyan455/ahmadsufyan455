@@ -18,10 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=ahmadsufyan455&style=flat-square&color=blue" alt=""/>
 </div><br><br>
 
-- 🔹 Mobile Developer & Code Reviewer
-- 📱 Mastering Flutter & Jetpack Compose
-- 🎯 2025 Goals: Contribute to tech education & fluent in english
-- 📖 Passionate about self-development books
+- 🔹 Mobile Engineer (Flutter) | Code Reviewer
+- 🚀 2026 Focus: Mastering Next.js & expanding into full-stack
+- 🎯 Contributing to tech education & leveling up communication
+- 📖 Passionate about continuous self-growth
 
 ### :hammer_and_wrench: Languages and Tools :
 
